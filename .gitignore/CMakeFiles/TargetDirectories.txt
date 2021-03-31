@@ -1,0 +1,4 @@
+/home/csmajs/bdo023/lab-01---introduction-to-software-construction-tooling-FireFly0000/CMakeFiles/rebuild_cache.dir
+/home/csmajs/bdo023/lab-01---introduction-to-software-construction-tooling-FireFly0000/CMakeFiles/edit_cache.dir
+/home/csmajs/bdo023/lab-01---introduction-to-software-construction-tooling-FireFly0000/CMakeFiles/c-echo.dir
+/home/csmajs/bdo023/lab-01---introduction-to-software-construction-tooling-FireFly0000/CMakeFiles/area_calculator.dir
