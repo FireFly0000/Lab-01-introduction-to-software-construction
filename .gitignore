@@ -1,0 +1,13 @@
+bin
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+lib
+Makefile
+
+test
+c-echo
+area_calculator 
+
+
+
